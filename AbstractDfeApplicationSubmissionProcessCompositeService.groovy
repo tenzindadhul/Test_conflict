@@ -1,7 +1,7 @@
 /*******************************************************************************
  Copyright 2020-2020 Ellucian Company L.P. and its affiliates.
  *******************************************************************************/
-package net.hedtech.banner.student.dfeadmissions.ldm.aa.bb
+package net.hedtech.banner.student.dfeadmissions.ldm.aa.bb.cc
 
 import grails.gorm.transactions.Transactional
 import net.hedtech.banner.exceptions.ApplicationException
